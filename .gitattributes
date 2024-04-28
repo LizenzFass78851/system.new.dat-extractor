@@ -1,0 +1,7 @@
+# Set CRLF for Windows specific script files
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.txt text eol=crlf
+
+# All other files on Auto
+* text=auto
